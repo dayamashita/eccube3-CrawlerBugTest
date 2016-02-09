@@ -1,0 +1,3 @@
+# レンダリング終了後のイベント
+eccube.event.render.product_list.before:
+    - [onRenderProductListBefore, NORMAL]
